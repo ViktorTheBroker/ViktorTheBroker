@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ViktorTheBroker
+- 👋 Hi, I’m @VirtualViktor
 - 👀 I’m interested in AWS DeepRacer League
 - 🌱 I’m currently learning AI and Robotic Process Automation
 - 💞️ I’m looking to collaborate on learning Python, AWS DeepRacer and Automation
